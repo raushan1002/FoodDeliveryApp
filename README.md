@@ -1,3 +1,28 @@
+
+markdown
+Copy code
+# Food Delivery App README
+
+Welcome to our Food Delivery App! This app makes it easy for users to order food from various restaurants. Here's what you need to know:
+
+## Features
+- **Sign Up / Login**: Users can create accounts or log in securely.
+- **Restaurant Selection**: Browse through a variety of restaurants.
+- **Menu Viewing**: View detailed menus with customizable options.
+- **Cart**: Add items to your cart as you browse.
+- **Checkout**: Customize your order and complete your purchase.
+- **Secure Ordering**: Passwords are encrypted for security.
+- **Future Enhancements**: We plan to add secure payment options and real-time order tracking.
+
+## Technologies Used
+- **JavaServer Pages (JSP)**: Dynamic web content.
+- **Cascading Style Sheets (CSS)**: Styling the app.
+- **Java Database Connectivity (JDBC)**: Connecting to the database.
+- **Servlets**: Handling requests and responses.
+- **MySQL database**: Storing data.
+- **Tomcat Server**: Hosting the web application.
+
+
 ![Screenshot (186)](https://github.com/raushan1002/FoodDeliveryApp/assets/108427834/e282727f-f607-44ce-8b14-e25c57a40593)
 ![Screenshot (188)](https://github.com/raushan1002/FoodDeliveryApp/assets/108427834/5f4f870b-fa83-48ba-a59a-5fa2756362ca)
 ![Screenshot (190)](https://github.com/raushan1002/FoodDeliveryApp/assets/108427834/7647caf0-a4ea-4df2-bb84-be23fec58e65)
